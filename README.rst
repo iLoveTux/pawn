@@ -17,15 +17,15 @@ Introduction
     :scale: 100%
     :target: https://codecov.io/gh/iLoveTux/pawn
 
-.. image:: https://codeclimate.com/github/iLoveTux/unitils/badges/gpa.svg
+.. image:: https://codeclimate.com/github/iLoveTux/pawn/badges/gpa.svg
    :alt: Code Climate
    :scale: 100%
-   :target: https://codeclimate.com/github/iLoveTux/unitils
+   :target: https://codeclimate.com/github/iLoveTux/pawn
 
-.. image:: https://readthedocs.org/projects/docs/badge/?version=latest
+.. image:: https://readthedocs.org/projects/pawn/badge/?version=latest
     :alt: Documentation Status
     :scale: 100%
-    :target: https://docs.readthedocs.io/en/latest/?badge=latest
+    :target: http://pawn.readthedocs.io/en/latest/?badge=latest
 
 -----------------------------
 What is it and why do I care?
