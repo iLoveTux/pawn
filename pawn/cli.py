@@ -1,4 +1,4 @@
-import pawn
+from pawn import pawn
 import sys
 import argparse
 
@@ -26,4 +26,4 @@ def main(argv=None):
         "script": args.script,
         "files": args.files,
     }
-    pawn.pawn(**kwargs)
+    pawn(**kwargs)

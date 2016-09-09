@@ -17,7 +17,7 @@ setup(
     packages=['pawn'],
     entry_points={
         "console_scripts": [
-            "pawn=pawn.cli:main",
+            "pawn=pawn:__main__",
         ]
     },
     test_suite="nose.collector",

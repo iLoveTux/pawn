@@ -15,10 +15,10 @@ except ImportError:
 class TestPawnCli(unittest.TestCase):
     """General tests for the pawn.py cli
     """
-    @mock.patch("pawn.pawn")
+    @mock.patch("pawn.cli.pawn")
     def test_takes_two_arguments_script_and_input_file(self, mock_pawn):
         argv = ["{print(FIELDS[0])}", "input.txt"]
-        pawn.main(argv)
+        pawn.cli.main(argv)
         mock_pawn.assert_called_with(
             script="{print(FIELDS[0])}",
             files=["input.txt"])
