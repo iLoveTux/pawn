@@ -15,7 +15,6 @@ setup(
     keywords="language interpreter",
     url="http://github.com/ilovetux/pawn",
     packages=['pawn'],
-    install_requires=[],
     entry_points={
         "console_scripts": [
             "pawn=pawn.cli:main",
