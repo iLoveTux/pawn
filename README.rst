@@ -3,7 +3,6 @@ Introduction
 ************
 
 .. image:: https://travis-ci.org/iLoveTux/pawn.svg?branch=master
-    :target: https://travis-ci.org/iLoveTux/pawn
     :alt: Travis-CI Build Status (for Linux)
     :scale: 100%
     :target: https://travis-ci.org/iLoveTux/pawn
