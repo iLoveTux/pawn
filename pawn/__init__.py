@@ -3,5 +3,5 @@ from .cli import main
 
 __all__ = [
     "pawn",
-    "main"
+    "main",
 ]
