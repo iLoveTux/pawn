@@ -118,10 +118,6 @@ along with the above rules, we can pass any iterable yielding lines for processi
 How do I get it?
 ----------------
 
-To get the most supported version::
-
-  $ pip install pawn
-
 To get the latest version::
 
   $ pip install https://github.com/ilovetux/pawn/archive/master.zip
